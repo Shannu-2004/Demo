@@ -1,3 +1,4 @@
+hi pradeep how r u
 n=int(input("enter a number")
 if n%2==0:
 print("The given number is even number")
